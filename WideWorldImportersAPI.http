@@ -1,0 +1,6 @@
+@WideWorldImportersAPI_HostAddress = http://localhost:5059
+
+GET {{WideWorldImportersAPI_HostAddress}}/customers/
+Accept: application/json
+
+###
