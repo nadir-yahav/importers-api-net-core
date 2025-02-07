@@ -20,6 +20,7 @@ Before starting, ensure that your system meets the following requirements:
 
 2. **Set up the SQL Server database:**
    - Ensure that SQL Server is installed and running.
+   - Download the `WideWorldImporters.bak` file from [this link](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0).
    - Restore the `WideWorldImporters` database using the provided backup file (`WideWorldImporters.bak`).
    
 3. **Update the `appsettings.json` file with your database connection string:**
